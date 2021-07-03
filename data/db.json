@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My 1st blog",
+      "body": "lorem ipsum.. Conversely, it can occasionally be useful to use pseudo-random sequences that repeat exactly. This can be accomplished by calling randomSeed() with a fixed number, before starting the random sequence.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Effort for party",
+      "body": "lorem ipsum The max parameter should be chosen according to the data type of the variable in which the value is stored. In any case, the absolute maximum is bound to the long nature of the value generated (32 bit - 2,147,483,647). Setting max to a higher value won’t generate an error during compilation, but during sketch execution the numbers generated will not be as expected.🍪",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Competitive Coding",
+      "body": "If you want to learn cp start today. You will get good placements and internships only and only if you have good cp skills. so start today.I am terrified as I am not good at cp for my upcoming internships and placements but I have decided to do my best and start cp now. what are you waiting for??",
+      "author": "lavesh",
+      "id": 3
+    },
+    {
+      "title": "new blog",
+      "body": "new body",
+      "author": "lavesh",
+      "id": 10
+    },
+    {
+      "title": "What are the main differences between Reactjs and React Native?",
+      "body": "While there are several similarities between Reactjs and React Native, however, there are some notable differences as well. Let’s have a look:\n\nReactjs can be described as a base derivative of React DOM, for the web platform while React Native is a base derivative in itself, which means that the syntax and workflow remain the same, but components alter.\nReactjs, eventually, is a JavaScript library, which enables the programmer to create an engaging and high performing UI Layer while React Native is an entire framework for building cross-platform apps, be it web, iOS or Android. \nIn Reactjs, virtual DOM is used to render browser code in Reactjs while in React Native, native APIs are used to render components in mobile.\nThe apps developed with Reactjs renders HTML in UI while React Native uses JSX for rendering UI, which is nothing but javascript. \nCSS is used for creating styling in Reactjs while a stylesheet is used for styling in React Native.\nIn Reactjs, the animation is possible, using CSS, just like web development while in React Native, an animated API is used for inducing animation across different components of the React Native application.\nIf the need is to build a high performing, dynamic, and responsive UI for web interfaces, then Reactjs is the best option while if the need is to give mobile apps a truly native feeling, then React Native is the best option.",
+      "author": "lavesh",
+      "id": 11
+    }
+  ]
+}
